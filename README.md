@@ -1,6 +1,6 @@
-# Kinoko
+# Website
 
-https://riyuze.github.io/kinoko/
+https://c22-ps172.github.io/website/
 
 A simple website used to detect different kinds of mushroom species.
 
